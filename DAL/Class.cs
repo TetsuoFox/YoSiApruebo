@@ -25,7 +25,7 @@ namespace Apruebo.DAL
                 default:
                     return "";
             }
-
+    //gfhgfhgfhgfhgfhgf
         }
         public DataTable getDataTable(string query, string con)
         {
